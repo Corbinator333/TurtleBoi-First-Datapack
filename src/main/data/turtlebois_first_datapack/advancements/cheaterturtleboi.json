@@ -1,0 +1,19 @@
+{
+  "display": {
+    "background": "minecraft:textures/block/stone.png",
+    "icon": {
+      "item": "minecraft:leather"
+    },
+    "title": "Woah, you can do that?",
+    "description": "Smelt Rotten Flesh to get Leather.",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "cheaterturtleboi": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

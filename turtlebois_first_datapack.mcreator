@@ -1,0 +1,47 @@
+{
+  "mod_elements": [
+    {
+      "name": "Leatherrecipefromturtleboi",
+      "type": "recipe",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "leatherrecipefromturtleboi"
+    },
+    {
+      "name": "Cheaterturtleboi",
+      "type": "achievement",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cheaterturtleboi"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {}
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "turtlebois_first_datapack",
+    "modName": "TurtleBoi\u0027s First Datapack",
+    "version": "1.0.0",
+    "author": "corbi, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "datapack-1.18.x",
+    "modElementsPackage": "net.mcreator.turtleboisfirstdatapack",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200120510
+}
